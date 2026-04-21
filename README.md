@@ -3,5 +3,3 @@
 
 This project is a music discovery web application using the Spotify Web API.
 
-Planning Document:
-[PASTE YOUR GOOGLE DOC LINK HERE]
